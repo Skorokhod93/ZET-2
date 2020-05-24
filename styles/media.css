@@ -1,0 +1,29 @@
+@media  (max-width: 775px){
+		.vl{
+			height: 100px;
+		}
+
+
+}
+
+
+@media  (max-width: 850px) {
+    .header__inner{
+    	display: flex;
+        flex-direction: column;
+    }
+
+    .header__logo{
+    	margin-bottom: 20px;
+    }
+
+    .but{
+    	margin-bottom: 114px;
+    }
+
+    .responsive{
+    	padding-bottom: 20px;
+    }
+}
+
+
